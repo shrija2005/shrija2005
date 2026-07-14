@@ -1,7 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
+Most machine learning models look brilliant in a Jupyter notebook — and fall apart the moment real users touch them. I build the ones that don't.
 I'm Shrija, a final-year AI & Data Science student and full-stack developer who cares less about chasing fancy algorithms and more about whether a model actually works end-to-end — from raw data to a deployed, usable product. My sweet spot sits at the intersection of machine learning, explainability, and software engineering: I don't just train models, I ship them.
-
+Most recently, I built a full production-style Clinical Decision Support System that predicts hospital readmission risk using the UCI Diabetes 130-US Hospitals dataset — an XGBoost classifier backed by SHAP explainability (so clinicians can see why a prediction was made), plus a fairness audit across demographic groups to catch bias before it reaches a patient. The system runs as a FastAPI backend with a Streamlit frontend, fully containerized with Docker. 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/shrijabhavani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrija-bhavani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrijabhavani@gmail.com) 
